@@ -2687,13 +2687,7 @@ Hypervisor 主機必須連接必要的 SSD 磁碟、並可供 ONTAP Select 虛�
   <block id="f2f353da1661ba94dcbb3269b7980ee0" category="list-text">按一下「*開始新執行*」、然後選取HA配對的主機和網路</block>
   <block id="0b30e81c88d5ec27b841310a84373595" category="paragraph">您可以視需要新增及設定其他HA配對。</block>
   <block id="5f81c29f30b61204b5999a7d3c42704f" category="list-text">按一下* Start*開始網路連線測試。</block>
-  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
-  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
-  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
-  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
-  <block id="7d6b000fe1d74e81dd9df936341bd14d" category="paragraph">「通知」檔案提供 NetApp 軟體中使用的第三方版權與授權的相關資訊。</block>
   <block id="b3a281a86bd3818b168900985a901d99" category="inline-link-macro">關於此功能的注意事項ONTAP Select 9.12.1.1</block>
-  <block id="2e1360a35e35be9f122a138a3a87b36f" category="list-text"><block ref="2e1360a35e35be9f122a138a3a87b36f" category="inline-link-macro-rx"></block></block>
   <block id="5f21d6245c5bb0178e94ca31973b2629" category="summary">使用容量資源池授權模式而非容量層授權模式時、有幾項優點。</block>
   <block id="f375253c446097df1911643c823bcebc" category="doc">效益摘要</block>
   <block id="9d7eafb0b72f9b5f7663e196c8c405d4" category="section-title">更有效率地使用儲存容量</block>
@@ -3653,7 +3647,6 @@ RAID SyncMirror （ RSM ）</block>
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">管理叢集</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">使用 REST API</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">更多資源</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">ONTAP Select 資源頁面</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">產品庫ONTAP Select</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">部分9文件ONTAP</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">ONTAP Select 部落格</block>
@@ -3793,4 +3786,14 @@ RAID SyncMirror （ RSM ）</block>
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">如果容量集區訂閱失效、系統會先發出警告、但 30 天後、如果系統關機、系統將不會重新開機、直到部署伺服器上安裝更新的訂閱為止。</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 及更新版本現在支援 SVM DR 做為來源和目的地、最多可與 16 個關係。SVM DR 支援僅限於使用來源 ONTAP 版本至版本 +2 。例如、 ONTAP Select 9.12.1 來源可以連線至目的地 ONTAP 9.12.1 、 9.13.1 或 9.14.1 版。</block>
   <block id="3133aa76a6118a1bc0b33763ed135b4e" category="sidebar">ONTAP Select 9.12.1 文件</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="6f7ee2dcac0389ff194542776ea48cf9" category="paragraph"><block ref="6f7ee2dcac0389ff194542776ea48cf9" category="inline-link-rx"></block></block>
 </blocks>
